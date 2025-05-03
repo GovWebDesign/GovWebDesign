@@ -13,7 +13,7 @@
 📧 **Email:** [beatricekwarteng142@gmail.com](mailto:beatricekwarteng142@gmail.com)
 
 ### 🌐 **See My Work**  
-▶️ [Accra Car Wash Demo](https://govwebdesign.github.io/car-wash-demo) *(Click to view on phone!)*  
+▶️ [Accra Car Wash Demo](https://govwebdesign.github.io/sparkle-car-wash/) *(Click to view on phone!)*  
 ▶️ [Osu Beauty Salon Demo](https://govwebdesign.github.io/salon-demo)  
 
 ---
