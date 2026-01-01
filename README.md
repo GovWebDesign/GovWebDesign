@@ -1,28 +1,45 @@
-# 👋 Hi, I'm **Governor** | Web Designer in Accra  
+# 👋 Hi, I'm Governor — Professional Web Designer in Accra, Ghana
 
-🚀 **I help shops, salons, and startups in Ghana get more customers with fast, mobile-friendly websites!**  
+🚀 **Affordable, Mobile-Friendly Websites for Shops, Salons & Startups**  
+I build fast-loading, modern websites that help Ghanaian businesses attract more customers online.
 
-### 🔥 **Why Choose Me?**  
-✅ **No stress** – I handle everything (hosting, domain, design).  
-✅ **Ready in 48 hours** – Your site goes live **FASTER** than competitors.  
-✅ **Pay with Mobile Money** – No bank hassle. **₵500 deposit, rest on delivery!**  
+![Mobile-Friendly Design](https://img.shields.io/badge/Mobile-Friendly-100%25-brightgreen) 
+![Fast Delivery](https://img.shields.io/badge/Delivery-48%20Hours-blue) 
+![Payment](https://img.shields.io/badge/Payment-Mobile%20Money-orange)
 
-### 📱 **Contact Me TODAY**  
-📞 **Call/WhatsApp:** [+233 50 877 2690](https://wa.me/+233508772690)    *(Fast replies - usually within 1 hour!)* 
+### 🔥 Why Work With Me?
 
+- **Full Service** — I handle **everything**: design, domain registration, hosting setup, and launch.
+- **Super Fast Turnaround** — Your website live in **48 hours** (faster than most!).
+- **Budget-Friendly Pricing** — Starting from competitive rates. Pay easily via **Mobile Money** (₵500 deposit, balance on delivery).
+- **Optimized for Results** — SEO-ready, responsive on phones/tablets, and designed to convert visitors into customers.
+
+### 📱 Get in Touch Today!
+
+📞 **WhatsApp / Call:** [+233 50 877 2690](https://wa.me/+233508772690) *(Replies usually within 1 hour)*  
 📧 **Email:** [beatricekwarteng142@gmail.com](mailto:beatricekwarteng142@gmail.com)
 
-### 🌐 **See My Work**  
-▶️ [Accra Car Wash Demo](https://govwebdesign.github.io/sparkle-car-wash/) *(Click to view on phone!)*  
-▶️ [Osu Beauty Salon Demo](https://govwebdesign.github.io/salon-demo)  
+> 💬 Ready for a free consultation? Message me now!
+
+### 🌐 Live Demos (Best Viewed on Mobile!)
+
+- 🧼 [Sparkle Car Wash – Accra](https://govwebdesign.github.io/sparkle-car-wash/)
+- 💇‍♀️ [Beauty Salon – Osu](https://govwebdesign.github.io/salon-demo)
+
+### 💬 Happy Clients
+
+> "Governor delivered our car wash site in just 2 days — customer calls doubled immediately!"  
+> — **Kofi**, Accra Premium Motors
+
+> "Paid ₵600 total and gained 15 new clients in 2 weeks. Highly recommend!"  
+> — **Ama**, East Legon Spa
+
+*(More testimonials & photos available on request)*
+
+### 🎁 Special Offer
+**Ask about current discounts** — Limited-time deals for new clients!  
+*(Valid through 2026 — mention you saw this on GitHub)*
 
 ---
 
-### 💬 **What Clients Say** 
-> *"Governor built our car wash site in 2 days—calls doubled!"*  
-> **— Kofi, Accra Premium Motors** *(Photo available on request)*  
-
-> *"Paid ₵600, got 15 new customers in 2 weeks. Worth it!"*  
-> **— Ama, East Legon Spa**  
-
-*(📌 Ask me about **March discounts**!)*  
+**Let's build your online presence today!** 🚀
