@@ -27,7 +27,7 @@ I build fast-loading, modern sites that help Ghanaian businesses attract more cu
 ### 📱 Get in Touch Today!
 
 **WhatsApp / Call:** [+233 50 877 2690](https://wa.me/+233508772690) *(Fast replies — usually within 1 hour!)*  
-**Email:**           [beatricekwarteng142@gmail.com](mailto:beatricekwarteng142@gmail.com)
+**Email:**           [governortate5@gmail.com](mailto:governortate5@gmail.com)
 
 > 💬 Free consultation & custom quote — message me now!
 
