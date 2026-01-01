@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Governor — Professional Web Designer in Accra, Ghana
+# Professional Web Designer in Accra, Ghana
 
-🚀 **Affordable, Mobile-Friendly Websites for Shops, Salons & Startups**  
+**Affordable, Mobile-Friendly Websites for Shops, Salons & Startups**  
 I build fast-loading, modern sites that help Ghanaian businesses attract more customers online.
 
 ![Mobile-Friendly](https://img.shields.io/badge/Mobile-Friendly-100%25-brightgreen)
