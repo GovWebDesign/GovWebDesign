@@ -33,8 +33,8 @@ I build fast-loading, modern sites that help Ghanaian businesses attract more cu
 
 ### 🌐 Live Demos (Best Viewed on Mobile!)
 
-- ✨ [Sparkle Express Car Wash – East Legon](https://govwebdesign.github.io/sparkle-car-wash/) *(Fully live & functional)*
-- 💇‍♀️ Osu Beauty & Wellness Salon *(Launching soon — ask for a private preview!)*
+-  [Sparkle Express Car Wash – East Legon](https://govwebdesign.github.io/sparkle-car-wash/) *(Fully live & functional)*
+-  Osu Beauty & Wellness Salon *(Launching soon — ask for a private preview!)*
 
 *(More projects added regularly)*
 
