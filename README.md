@@ -17,7 +17,7 @@ I build fast-loading, modern sites that help Ghanaian businesses attract more cu
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-### Why Choose Me?
+### ❔ Why Choose Me
 
 - **Full-Service Package** — I handle **everything**: custom design, domain registration, hosting setup, and full launch.
 - **Super Fast Turnaround** — Your website live in **just 48 hours** — faster than most!
